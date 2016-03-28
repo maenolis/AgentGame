@@ -1,0 +1,58 @@
+#A: airport
+~A: airport, 3
+#B: bank
+~B: bank, 1
+#Building Descriptions
+#G: gym
+~G: gym, 2
+#P: parking
+~P: parking, 3
+#M: market
+~M: market, 2
+#H: hair salon
+~H: hair salon, 1
+#C: chinese restaurant
+~C: chinese restaurant, 1
+#I: internet cafe
+~I: internet cafe, 2
+#S: skyscraper
+~S: skyscraper, 12
+#W: work
+~W: work, 2
+#L: liquor store
+~L: liquor store, 4
+#V: vault
+~V: vault, 1
+#J: jewelry
+~J: jewelry, 2
+
+
+#Map
+Map
+* ***   *      *             L
+      PP  *****       *     * 
+* *0                       *  
+* *                BBB    *  4
+* *                      *    
+*         **                  
+                              
+      G    **         5       
+*           I   ******** *****
+*          ****               
+    *       AA*       6       
+       S   *AA*               
+*          *  *        MMM    
+           *                  
+C          *9*                
+CC        ****                
+3         *           *       
+  *         *      *  *       
+ * *       *        * *      1
+ * *      *         * *      2
+ * *     *        *** **      
+  ****                W*      
+*   HH   8            7*      
+*************** ********** ***
+*             * *            *
+*************** *** **********
+V                            J
